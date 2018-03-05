@@ -1,4 +1,4 @@
-#Weather Web Application
+# Weather Web Application
 
 This is a weather application project using ExpressJS and HandlebarsJS
 
